@@ -1,0 +1,12 @@
+{
+  "name": "ts-declarations-bug",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.21.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
